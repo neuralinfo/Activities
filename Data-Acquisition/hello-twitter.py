@@ -15,5 +15,5 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-for tweet in api.search(q="minecraft"):
+for tweet in api.search(q="applewatch"):
    print tweet.text
