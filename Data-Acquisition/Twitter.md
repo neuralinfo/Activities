@@ -155,9 +155,9 @@ Twitter has two useful [search query operators](https://dev.twitter.com/rest/pub
   
 These two operators can be used together to define a particular day.  For example: 
 
-    minecraft since:2015-01-10 until:2015-01-11
+    applewatch since:2015-04-10 until:2015-05-15
     
-which you can view on the [twitter website](https://twitter.com/search?q=minecraft%20since%3A2015-01-10%20until%3A2015-01-11).
+which you can view on the [twitter website](https://twitter.com/search?q=applewatch%20since%3A2015-04-10%20until%3A2015-05-15).
 
 Questions to consider:
 
