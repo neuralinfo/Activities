@@ -81,6 +81,10 @@ each call to a Twitter REST API.
 An example of this is shown in `search.py` where the first 200 tweets are collected for a search term.  You'll need to modify
 the code to add your consumer key/secret and access token/secret.
 
+## Activities for the Live Session##
+You do not need to do any of the following activities before class. However, skimming through them is recommened.
+
+
 ### Activity: Chunking ###
 
 Suppose you are going to collect information about a particular topic (e.g. a hash tag) from Twitter and you'll be using code
