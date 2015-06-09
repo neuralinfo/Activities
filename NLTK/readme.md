@@ -60,7 +60,7 @@ The reader outputs the directory in which the stop words are stored.  You can li
 
 The files contain a single word per line.  As such, you can create or modify a stop word list for any language and add it to NLTK.
 
-
+## Normalizing Text #
 ## Stemming and Lemminization #
 
 Stemming: the process for reducing inflected (or sometimes derived) words to their stem, base or root form.
