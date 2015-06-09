@@ -107,10 +107,10 @@ The `pos` argument can have the following values:
 
 ## Activity ##
 
-Pick a passage of text and:
+Using BeautifulSoup get the text of the Fox News homepage (http://www.foxnews.com):
 
    1. Tokenize the text.
-   2. List all the nouns in the passage.
+   2. List all the nouns in the text.
    3. Apply a stop word filter to the tokenized text.
    4. Compute and plot a frequency distribution of the top 50 words.
    5. Apply a lemmatization algorithm with the pos argument set to 'n' and recompute your frequency distribution.
