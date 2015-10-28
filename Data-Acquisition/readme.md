@@ -93,6 +93,8 @@ as much as Twitter will give you over time via the rate limiting.
 
 Change the search.py code to output data to a file and limiting the amount of tweets per file.
 
+More infromaton about the entities in the twitter JSON objects can be found [here](https://dev.twitter.com/overview/api/entities-in-twitter-objects)
+
 Here are some things to consider:
 
   * What information will you store?
